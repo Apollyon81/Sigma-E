@@ -4,7 +4,7 @@ Project: Simulation of Coupled Oscillators with Energy-Dependent Plasticity
 
 
 This repository contains a minimal simulation of a system of coupled nonlinear oscillators, with memristive-like plasticity, homeostatic modulation, and adaptation dependent on a global energy proxy.
-The goal is not to demonstrate a finished, functional system, but to test whether a structural hypothesis survives computational friction.
+The goal is not to demonstrate a finished, functional system, but to test whether a structural hypothesis survives computational friction. The code tries to determine whether the oscillators, even starting with different rhythms and under external stimulation, are able to synchronize or develop significant connection patterns ($W_{mean}$).
 
 Core idea
 The hypothesis explored here is simple:
