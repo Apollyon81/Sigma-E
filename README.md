@@ -53,6 +53,12 @@ Open uncertainties
 • 	I do not know whether the dependence on global energy is essential or redundant
 These uncertainties will not be resolved by explanation, only by testing or rejection.
 
+"If the coherence index does not increase after the external pulses, I consider the model invalid."
+
+"If the average coupling does not reorganize in a stimulus-dependent way, the hypothesis fails."
+
+"If small initial variations change everything chaotically, there is no functional stability."
+
 Status
 Exploratory.
 No guarantees.
